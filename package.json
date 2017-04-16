@@ -1,0 +1,29 @@
+{
+  "name": "nodesocket",
+  "version": "1.0.0",
+  "description": "android ios socket application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisafakli/NodeSocketIO.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Socket",
+    "Android",
+    "IOS"
+  ],
+  "author": "Ali Safakli",
+  "license": "ISCsudo",
+  "bugs": {
+    "url": "https://github.com/alisafakli/NodeSocketIO/issues"
+  },
+  "homepage": "https://github.com/alisafakli/NodeSocketIO#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
